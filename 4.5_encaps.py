@@ -42,6 +42,7 @@
 # del a.name
 
 
-list_ = list(range(1,11))
-del list_[5]
-print(list_)
+# list_ = list(range(1,11))
+# del list_[5]
+# print(list_)
+
